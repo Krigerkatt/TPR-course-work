@@ -1,0 +1,17 @@
+{
+  "sheet": {
+    "width": 2800,
+    "height": 2070
+  },
+  "allow_rotation": true,
+  "parts": [
+    {"id": 1, "width": 600, "height": 400, "quantity": 4, "can_rotate": true},
+    {"id": 2, "width": 800, "height": 500, "quantity": 3, "can_rotate": true},
+    {"id": 3, "width": 400, "height": 300, "quantity": 6, "can_rotate": true},
+    {"id": 4, "width": 500, "height": 350, "quantity": 5, "can_rotate": true},
+    {"id": 5, "width": 700, "height": 450, "quantity": 2, "can_rotate": true},
+    {"id": 6, "width": 300, "height": 250, "quantity": 8, "can_rotate": true},
+    {"id": 7, "width": 550, "height": 400, "quantity": 3, "can_rotate": true},
+    {"id": 8, "width": 450, "height": 300, "quantity": 4, "can_rotate": true}
+  ]
+}
